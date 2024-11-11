@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "718208993218",
+    "project_id": "tp-smartkart-7dc93",
+    "storage_bucket": "tp-smartkart-7dc93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718208993218:android:d0ccffbba22afb2466385b",
+        "android_client_info": {
+          "package_name": "com.company.smartkart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo5URP4wMjePelwCAu3qcToUDaasM0ezY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718208993218:android:ef9e518be9dcc5b166385b",
+        "android_client_info": {
+          "package_name": "com.example.smart_cart"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo5URP4wMjePelwCAu3qcToUDaasM0ezY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:718208993218:android:a32faf3c11bf84ae66385b",
+        "android_client_info": {
+          "package_name": "com.example.smart_carts"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAo5URP4wMjePelwCAu3qcToUDaasM0ezY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
